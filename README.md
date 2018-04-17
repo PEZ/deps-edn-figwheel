@@ -1,6 +1,6 @@
 # Figwheel on Clojure CLI
 
-This is an attempt at creating a skeleton project using Figwheel together with Clojure CLI.
+This is an attempt at creating a skeleton project using [Figwheel](https://github.com/bhauman/lein-figwheel) together with [Clojure CLI](https://clojure.org/reference/deps_and_cli).
 
 It's not working yet, because I haven't figured out the right conf to make the Figwheel development web server find the `index.html` file. See [Issue #1](https://github.com/PEZ/deps-edn-figwheel/issues/1). Please feel free to comment with your tips on what could be wrong with the configuration.
 
