@@ -9,3 +9,5 @@ pom.xml
 .repl
 .nrepl-port
 .cpcache/
+resources/
+.DS_Store
